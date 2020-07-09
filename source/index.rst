@@ -8,10 +8,29 @@ Welcome to Initial Platform Services's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   getting_started.rst
+   :caption: Initial Platform:
    docs/index.md
+   docs/service.md
+   docs/terms.md
+   docs/release_note.md
+
+   :caption: Agency:
+   docs/agency.md
+   docs/agency_protocol.md
+
+   :caption: Web Console:
+   docs/api.md
+   docs/wallet_api.md
+
+   :caption: Reference Guide:
+   docs/demo.md
+   docs/agency_protocol.md
+
+   :caption: SDK API:
+   docs/java_api.md
+   docs/ios_api.md
+
 
 Indices and tables
 ==================
