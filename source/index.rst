@@ -13,13 +13,6 @@ Welcome to Initial Platform Services's documentation!
    getting_started.rst
    docs/index.md
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents2:
-
-   getting_started.rst
-   docs/index.md
-
 Indices and tables
 ==================
 
